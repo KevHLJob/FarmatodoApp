@@ -1,0 +1,6 @@
+﻿namespace Negocio
+{
+    class FacturaN
+    {
+    }
+}
